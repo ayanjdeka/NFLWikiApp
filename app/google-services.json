@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787736270172",
+    "firebase_url": "https://nfldata-sbhs.firebaseio.com",
+    "project_id": "nfldata-sbhs",
+    "storage_bucket": "nfldata-sbhs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787736270172:android:39c55beec60e1968",
+        "android_client_info": {
+          "package_name": "wiki.nfl.ayan.nflwikiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787736270172-qfjaodsibb7ia4ih26ufpooqs9ood4b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0FTsg_cgP8jt39pE-t9sjxgafaCa4VYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787736270172-qfjaodsibb7ia4ih26ufpooqs9ood4b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
